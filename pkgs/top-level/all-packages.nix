@@ -41544,4 +41544,5 @@ with pkgs;
 
   wttrbar = callPackage ../applications/misc/wttrbar { };
 
+  espup = callPackage ../development/tools/espup { };
 }
